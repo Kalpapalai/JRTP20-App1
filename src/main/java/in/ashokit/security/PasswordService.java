@@ -6,6 +6,8 @@ import java.util.Base64.Encoder;
 
 public class PasswordService {
 	int i=10;
+        int j=20;
+
 	
 	public static String encode(String txt)
 	{
